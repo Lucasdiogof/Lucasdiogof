@@ -1,7 +1,7 @@
 <div align="center"> 
-  <a href="https://github.com/Lucasdiogof-old">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdiogof-old&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdiogof-old&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Lucasdiogof">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdiogof-show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdiogof&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <br>
@@ -11,4 +11,4 @@
   <a href="https://www.linkedin.com/in/lucas-diogo-fran%C3%A7a-aa39b9174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  
 </div>
 <br>
-<img align="right" src="https://komarev.com/ghpvc/?username=Lucasdiogof-old&color=green" alt="Lucasdiogof-old" /> 
+<img align="right" src="https://komarev.com/ghpvc/?username=Lucasdiogof&color=green" alt="Lucasdiogof" /> 
