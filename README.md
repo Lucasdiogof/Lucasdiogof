@@ -39,31 +39,6 @@ I value clean architecture, pragmatic engineering decisions, resilient integrati
 </tr>
 </table>
 
-### Additional engineering
-
-- **[OrbiJob](https://github.com/Lucasdiogof/orbijob)** — global job discovery app (Flutter, Supabase). *In development:* foundation, design system and data model are in place; no public release yet.
-- **[BusãoGyn](https://github.com/Lucasdiogof/busaogyn)** — public transit app for Goiânia and its metropolitan area (Flutter and a Cloudflare Worker API). *In development.*
-
-## Professional experience
-
-<table>
-
-<tr><td width="64" align="center"><img src="assets/apps/cooper-pay.webp" width="40" alt="Cooper Tec"></td><td><b>Cooper Tec</b> — Senior Mobile Developer · Flutter<br><sub>Sep 2023 — present</sub><br>Flutter/Dart apps of the Cooper Pay white-label ecosystem: BLoC, Clean Architecture and TDD.</td></tr>
-
-<tr><td width="64" align="center"><img src="assets/apps/agrosmart.webp" width="40" alt="Agrosmart"></td><td><b>Agrosmart</b> — Senior Mobile Developer · Flutter<br><sub>Jan 2022 — Jun 2023</sub><br>Agtech apps in Flutter with Cubit/BLoC, offline-first data and Fastlane releases.</td></tr>
-
-<tr><td width="64" align="center"><img src="assets/apps/toro-investimentos.webp" width="40" alt="Toro Investimentos"></td><td><b>Toro Investimentos</b> — Mobile Developer<br><sub>May 2021 — Dec 2021</sub><br>Flutter apps for the financial sector, with Azure DevOps CI/CD.</td></tr>
-
-</table>
-
-Full career history and the list of 30+ apps I've worked on: [lucksrei.com](https://lucksrei.com).
-
-## GitHub activity
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasdiogof&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasdiogof&theme=default" alt="profile-details" width="100%"></picture></p>
-
-<sub>Public activity only; much professional work lives in private repositories.</sub>
-
 ## Contact
 
 Open to conversations about mobile engineering and product work.
