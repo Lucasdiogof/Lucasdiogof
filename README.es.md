@@ -47,3 +47,4 @@ Abierto a conversar sobre ingeniería móvil y producto.
 - **Página de contacto:** [lucksrei.com/contact](https://lucksrei.com/contact/)
 - **LinkedIn:** [lucas-diogo](https://www.linkedin.com/in/lucas-diogo-aa39b9174/)
 - **Correo:** [marketing@lucksrei.com](mailto:marketing@lucksrei.com)
+- **WhatsApp:** [Hablar por WhatsApp](https://wa.me/5562982795032)

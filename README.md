@@ -47,3 +47,4 @@ Open to conversations about mobile engineering and product work.
 - **Contact page:** [lucksrei.com/contact](https://lucksrei.com/contact/)
 - **LinkedIn:** [lucas-diogo](https://www.linkedin.com/in/lucas-diogo-aa39b9174/)
 - **Email:** [marketing@lucksrei.com](mailto:marketing@lucksrei.com)
+- **WhatsApp:** [Talk on WhatsApp](https://wa.me/5562982795032)
