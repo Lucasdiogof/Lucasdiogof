@@ -39,31 +39,6 @@ Valoro la arquitectura limpia, las decisiones de ingeniería pragmáticas, las i
 </tr>
 </table>
 
-### Otros proyectos de ingeniería
-
-- **[OrbiJob](https://github.com/Lucasdiogof/orbijob)** — app de búsqueda global de empleo (Flutter, Supabase). *En desarrollo:* la base, el sistema de diseño y el modelo de datos están listos; aún sin lanzamiento público.
-- **[BusãoGyn](https://github.com/Lucasdiogof/busaogyn)** — app de transporte público para Goiânia y su región metropolitana (Flutter y API en Cloudflare Worker). *En desarrollo.*
-
-## Experiencia profesional
-
-<table>
-
-<tr><td width="64" align="center"><img src="assets/apps/cooper-pay.webp" width="40" alt="Cooper Tec"></td><td><b>Cooper Tec</b> — Senior Mobile Developer · Flutter<br><sub>sep 2023 — actual</sub><br>Apps Flutter/Dart del ecosistema white-label Cooper Pay: BLoC, Clean Architecture y TDD.</td></tr>
-
-<tr><td width="64" align="center"><img src="assets/apps/agrosmart.webp" width="40" alt="Agrosmart"></td><td><b>Agrosmart</b> — Senior Mobile Developer · Flutter<br><sub>ene 2022 — jun 2023</sub><br>Apps de agrotech en Flutter con Cubit/BLoC, datos offline-first y releases con Fastlane.</td></tr>
-
-<tr><td width="64" align="center"><img src="assets/apps/toro-investimentos.webp" width="40" alt="Toro Investimentos"></td><td><b>Toro Investimentos</b> — Mobile Developer<br><sub>may 2021 — dic 2021</sub><br>Apps Flutter para el sector financiero, con CI/CD en Azure DevOps.</td></tr>
-
-</table>
-
-Trayectoria completa y la lista de más de 30 apps en las que participé: [lucksrei.com](https://lucksrei.com).
-
-## Actividad en GitHub
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasdiogof&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasdiogof&theme=default" alt="profile-details" width="100%"></picture></p>
-
-<sub>Solo actividad pública; buena parte del trabajo profesional está en repositorios privados.</sub>
-
 ## Contacto
 
 Abierto a conversar sobre ingeniería móvil y producto.
