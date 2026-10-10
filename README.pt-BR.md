@@ -39,31 +39,6 @@ Valorizo arquitetura limpa, decisões de engenharia pragmáticas, integrações 
 </tr>
 </table>
 
-### Outros projetos de engenharia
-
-- **[OrbiJob](https://github.com/Lucasdiogof/orbijob)** — app de busca global de vagas (Flutter, Supabase). *Em desenvolvimento:* fundação, design system e modelo de dados prontos; ainda sem lançamento público.
-- **[BusãoGyn](https://github.com/Lucasdiogof/busaogyn)** — app de transporte público para Goiânia e região metropolitana (Flutter e API em Cloudflare Worker). *Em desenvolvimento.*
-
-## Experiência profissional
-
-<table>
-
-<tr><td width="64" align="center"><img src="assets/apps/cooper-pay.webp" width="40" alt="Cooper Tec"></td><td><b>Cooper Tec</b> — Senior Mobile Developer · Flutter<br><sub>set/2023 — atual</sub><br>Apps Flutter/Dart do ecossistema white-label Cooper Pay: BLoC, Clean Architecture e TDD.</td></tr>
-
-<tr><td width="64" align="center"><img src="assets/apps/agrosmart.webp" width="40" alt="Agrosmart"></td><td><b>Agrosmart</b> — Senior Mobile Developer · Flutter<br><sub>jan/2022 — jun/2023</sub><br>Apps de agrotech em Flutter com Cubit/BLoC, dados offline-first e releases com Fastlane.</td></tr>
-
-<tr><td width="64" align="center"><img src="assets/apps/toro-investimentos.webp" width="40" alt="Toro Investimentos"></td><td><b>Toro Investimentos</b> — Mobile Developer<br><sub>mai/2021 — dez/2021</sub><br>Apps Flutter para o setor financeiro, com CI/CD no Azure DevOps.</td></tr>
-
-</table>
-
-Histórico completo e a lista de mais de 30 apps em que atuei: [lucksrei.com](https://lucksrei.com).
-
-## Atividade no GitHub
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasdiogof&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasdiogof&theme=default" alt="profile-details" width="100%"></picture></p>
-
-<sub>Apenas atividade pública; boa parte do trabalho profissional está em repositórios privados.</sub>
-
 ## Contato
 
 Aberto a conversas sobre engenharia mobile e produto.
